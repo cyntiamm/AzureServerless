@@ -1,0 +1,11 @@
+{
+    "IsEncripted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
+  },
+  "ConnectionStrings": {
+    "SqlConnectionString": "Server=tcp:sql-serverless-estudo.database.windows.net,1433;Initial Catalog=SQL_Serviless;Persist Security Info=False;User ID=cyntiamm;Password=R@fael10;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  }
+}  
+  
